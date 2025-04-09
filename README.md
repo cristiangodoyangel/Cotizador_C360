@@ -34,9 +34,7 @@ Su objetivo es permitir a empresas o usuarios crear cotizaciones personalizadas 
 
 APP_Cotizador/ ├── backend/ │ └── src/main/java/... (Spring Boot API) ├── frontend/ │ ├── src/components/ (Componentes React) │ ├── public/ (favicon, assets) │ └── App.jsx, main.jsx, index.css, etc.
 
-yaml
-Copiar
-Editar
+
 
 ---
 
@@ -49,12 +47,7 @@ Editar
 
 ---
 
-## 🧑‍💻 Autor
 
-Desarrollado por [Cristian Andrés Godoy Angel](https://github.com/cristiangodoyangel)  
-CEO de [Lógica.net](https://weblogica.cl) — Pastor, programador y creativo.
-
----
 
 ## 📜 Licencia
 
