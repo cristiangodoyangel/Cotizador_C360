@@ -9,7 +9,6 @@ Su objetivo es permitir a empresas o usuarios crear cotizaciones personalizadas 
 - ✅ Interfaz moderna y responsive
 - 🧲 Drag & Drop de productos (desktop)
 - 📱 Botones de acción adaptados a móvil
-- 🛒 Simulación de carrito con diseño animado
 - 🔄 Generación dinámica de totales
 - 💬 Integración con WhatsApp para enviar cotización
 
